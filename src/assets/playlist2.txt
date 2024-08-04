@@ -1,0 +1,5 @@
+C:\Users\adity\IdeaProjects\MP3MusicPlayer\src\assets\Tropic Fuse - French Fuse.mp3
+C:\Users\adity\IdeaProjects\MP3MusicPlayer\src\assets\Auld Lang Syne (Instrumental) - Jingle Punks.mp3
+C:\Users\adity\IdeaProjects\MP3MusicPlayer\src\assets\Espresso_320(PagalWorld.com.so).mp3
+C:\Users\adity\IdeaProjects\MP3MusicPlayer\src\assets\Birds Of A Feather_320(PagalWorld.com.so).mp3
+C:\Users\adity\IdeaProjects\MP3MusicPlayer\src\assets\playlist2
